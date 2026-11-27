@@ -4,18 +4,8 @@ title:text to html converter
 css:lol.css
 
 SECTION:BODY
-head:if you see this text converted, it works
+head:if you see this text converted, it probably works, if you don't see it, something broke (if it's broken you won't see this anyway)
 sub:this is supposed to be displayed on a html page
 line
-head:abcd12345
-line
-text:i can edit this freely however i want purely from input.txt
-text:lol
-text:to change, just edit input.txt and rerun the python code to generate
-
 link:https://www.youtube.com/watch?reload=9&v=dQw4w9WgXcQ | Very cool video!
-
 line
-
-sub: Big chungus 
-imglink:https://i1.sndcdn.com/artworks-000464511288-31uztv-t500x500.jpg | https://i1.sndcdn.com/artworks-000464511288-31uztv-t500x500.jpg | Big chungus
